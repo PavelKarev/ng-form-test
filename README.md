@@ -28,11 +28,11 @@ Before running the tests make sure you are serving the app via `ng serve`.
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 
-##Demo
+## Demo
 
-http://ngformtest.herokuapp.com/
+https://pavelkarev.github.io/ng-form-test/dist/index.html
 
 
-##Tutorial
+## Tutorial
 
 https://coursetro.com/posts/code/66/Angular-4-Reactive-Forms-Tutorial
